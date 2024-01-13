@@ -1,0 +1,17 @@
+.placePhoto{
+    width:100px;
+    height:100px;
+    border-radius: 10px;
+}
+
+.itemContent {
+    max-width: 275px;
+}
+
+.sidebarItem .placeSidebarItem {
+    justify-content: space-between;
+}
+
+.placeSidebarItem h3,p {
+    margin: 0.2rem 0;
+}

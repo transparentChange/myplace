@@ -1,0 +1,28 @@
+.dialogContent {
+    margin: 50px 20px 0 20px;
+}
+
+.dropzone {
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    border-width: 2;
+    border-radius: 2;
+    border-color: #eeeeee;
+    border-style: dashed;
+    background-color: #fafafa;
+    color: #bdbdbd;
+    outline: none;
+    transition: border .24s ease-in-out;
+}
+
+.visitTextarea {
+    margin-top: 20px;
+    width: 100%;
+    display: list-item;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+  }
